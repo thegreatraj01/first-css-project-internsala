@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+ 
+ /* for contact us page  */
+ body{
+     background-color: #e6b800;
+ }
+
+  /* for input box */
+
+  #form-container{
+   margin: 100px auto auto auto;
+   width: 35%;
+   background-color: #edebe3;
+  }
+
+ .box{
+height: 1.4rem;
+width:94%;
+font-weight: 600;
+color: black;
+border-radius: 3px;
+margin: 10px;
+ }
+
+  /* for massage area  */
+ form textarea{
+    margin: 10px;
+    width: 94%;
+    font-weight: 600;
+color: black;
+border-radius: 3px;
+ }
+
+ form button{
+    margin:2px 0 10px 10px;
+    width: 96%;
+    height: 1.8rem;
+    font-weight: 800;
+    background-color: #eed262;
+ }
+
+ /* for About us page  */
+
+ .menu-box{
+    width: 100%;
+    height: 1.8rem;
+    background-color: beige;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 1.4rem;
+    border: solid 2px rgb(65, 125, 237);
+ }
+ .para-box{
+    width: 98%;
+    background-image: linear-gradient(rgb(167, 245, 245) , rgb(236, 75, 75));
+    margin-left: auto;
+    margin-right: auto;
+ }
